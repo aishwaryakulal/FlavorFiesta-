@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import { css, keyframes } from '@mui/styled-engine';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
